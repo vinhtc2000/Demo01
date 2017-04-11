@@ -7,9 +7,12 @@
     "printf": "^0.2.5",
     "protractor": "^5.1.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "protractor-html-screenshot-reporter": "0.0.21",
+    "protractor-jasmine2-screenshot-reporter": "^0.3.5"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "protractor FullRegressionTest2.js"
   },
   "author": "VinhTran",
   "license": "ISC"

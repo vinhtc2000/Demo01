@@ -1,0 +1,16 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "Protractor",
+  "main": "index.js",
+  "dependencies": {
+    "printf": "^0.2.5",
+    "protractor": "^5.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VinhTran",
+  "license": "ISC"
+}
